@@ -10,5 +10,7 @@ HTML5(semantic)
 CSS(Flexbox, responsive design)
 Vanilla JavaScript(no frame work)
 
-HOW TO RUN LOCALLY.
-git
+how to run locally .
+git clone
+ https://kenneth-waire.github.io/profile-card/
+ cd profile-card
